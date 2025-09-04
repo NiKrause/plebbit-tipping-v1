@@ -9,6 +9,7 @@ The Plebbit tipping system includes the smart contract and the JavaScript/TypeSc
 **Related Project**: [plebones](https://github.com/NiKrause/plebones) - A bare-bones GUI client for Plebbit that provides a minimal interface for interacting with Plebbit networks and integrates with the tipping system on Sepolia (Etherium Testnet). It contains the tipping react-hooks which are leveraging the js-api from this project.
 
 **Live Demo**: [plebtip.netlify.app](https://plebtip.netlify.app/) - A web-based tipping interface built with plebones and this smart contract and js-api
+ [plebtip wallet](https://plebtip.netlify.app/#/wallet) 
 
 ## Deployed Contracts
 
